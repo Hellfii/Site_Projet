@@ -1,3 +1,3 @@
 # Site_Projet
 
-Projet de conception de site faites en 2020 en bînome
+Projet de conception de site effecté en 2020 en bînome :)
